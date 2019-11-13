@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomClock">
+        <attr name="maxWidth" format="dimension"/>
+        <attr name="customFontName" format="string"/>
+    </declare-styleable>
+
+</resources>
